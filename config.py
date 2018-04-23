@@ -18,8 +18,8 @@ class EasyDict(dict):
 #----------------------------------------------------------------------------
 # Paths.
 
-data_dir = '/content/test/mnist'
-result_dir = '/content/test/result'
+data_dir = '../mnist'
+result_dir = '../result'
 
 #----------------------------------------------------------------------------
 # TensorFlow options.
